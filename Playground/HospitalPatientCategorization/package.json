@@ -1,0 +1,9 @@
+{
+  "types": "module",
+  "scripts": {
+    "start": "node --no-warnings --watch index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "4.22"
+  }
+}
